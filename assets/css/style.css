@@ -8305,3 +8305,10 @@ padding: 0px 15px !important;
 .piclass b {
   text-decoration: underline;
 }
+
+.product-ul li {
+  margin-bottom: 5px !important;
+}
+.product-ul li a {
+  color: #00733d;
+}
